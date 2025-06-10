@@ -3,23 +3,23 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Topper SMP",
+                "name": "CUSTOM SMP",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Topper SMP",
+            "name": "CUSTOM SMP",
             "ip": "toppersmp.minerack.fun",
             "port": 25568,
-            "channelId": "1381309553131389029",
+            "channelId": "1381845128196390912",
             "messageId": "1381309553131389029",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
                 "banner": {
-                    "url": "https://media.discordapp.net/attachments/1344584613682483200/1381318062191415358/toppersmp.gif?ex=68471431&is=6845c2b1&hm=6b0a1259cc1d5bc8d9ab29eb91af9b886e76902966bdb68348470d8379e7901c&=&width=585&height=75",
+                    "url": "https://discord.com/channels/1368102192560472194/1381845128196390912/1381852086052061229",
                     "enabled": true
                 },
                 "chart": {
@@ -38,11 +38,11 @@
         },
         "title": "🎮 Minecraft Server Status",
         "footer": {
-            "text": "Made with ❤️and 🧠by Lord Ankit",
+            "text": "Made with ❤️and 🧠by kunal",
             "iconURL": "https://github.com/BLKOFFICIAL.png"
         }
     },
     "credits": {
-        "author": "Lord Ankit"
+        "author": "kunal"
      }
 }
