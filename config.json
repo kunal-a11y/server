@@ -10,7 +10,7 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
+            "name": "CUSTOM SMP",
             "ip": "hypixel.net",
             "port": 25565,
             "channelId": "<#1381845128196390912>",
