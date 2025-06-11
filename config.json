@@ -11,9 +11,9 @@
     "minecraft": {
         "servers": [{
             "name": "CUSTOM SMP",
-            "ip": "es.gosyntech.in",
-            "port": 21604,
-            "channelId": "<1381845128196390912>",
+            "ip": "free1.ryencloud.in",
+            "port": 25659,
+            "channelId": "1108027593011236895",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
