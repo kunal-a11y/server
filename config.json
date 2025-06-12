@@ -12,7 +12,7 @@
         "servers": [{
             "name": "CUSTOM SMP",
             "ip": "free1.ryencloud.in",
-            "port": 25659,
+            "port": 25595,
             "channelId": "1381845128196390912",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
