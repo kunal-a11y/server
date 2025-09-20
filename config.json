@@ -13,8 +13,8 @@
             "name": "CUSTOM SMP",
             "ip": "free1.ryencloud.in",
             "port": 25595,
-            "channelId": "1418804689129963592",
-            "messageId": "1418804689129963592",
+            "channelId": "1408656673626787927",
+            "messageId": "1418882750903091221",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
@@ -43,7 +43,7 @@
         }
     },
     "credits": {
-        "author": "Team BLK",
+        "author": "Team kunal",
         "youtube": "https://www.youtube.com/@team_blk_official",
         "discord": "adithyadev.blk",
         "github": "https://github.com/BLKOFFICIAL"
